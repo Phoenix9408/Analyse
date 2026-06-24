@@ -16,3 +16,6 @@ Liste des fichiers :
 "Valorisation du consomme/Valorisation du consommé.csv",
 "affectation Perimetre Entreprise/Affectaction Périmètre Entreprise.csv", 
 "Perimetre Entreprise/Périmètre Entreprise.csv"]
+
+
+s3://bpi-fr-prod-acf-anaplan-data/Output/Export_Mensuel/
